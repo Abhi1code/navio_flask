@@ -1,6 +1,8 @@
-# NAVIO
+# NAVIO ([Sample video](https://matrixfrats.com/navio/video))
 
 Your GPS, for indoors.
+
+<a href="https://matrixfrats.com/navio"><img src="https://matrixfrats.com/download_api/download/upload/216656127882.PNG" title="NAVIO"></a>
 
 ## Documentation (Usage)
 
@@ -23,8 +25,8 @@ Complete navio project is divided into three different modules.
 
 ## Installation
 
-- Admin website ([Github link](https://github.com/Abhi1code/navio_final)) 
-([hosted link](https://matrixfrats.com/navio/)) 
+### Admin website ([Github link](https://github.com/Abhi1code/navio_final)) ([hosted link](https://matrixfrats.com/navio/)) 
+
 
 1) Download the above repo.
 2) Make sure xampp server is installed inside your system.
@@ -39,8 +41,8 @@ php server.php
 7) Now open `navio_website/client/demo_1/index.html` file in any browser.
 8) Here shopkeepers have to upload their floor plan and mark navigation directions(Sample floor plan is already uploaded).
 9) For simplicity leave the admin panel as it is.
-
-- Flask(python) backend ([Github link](https://github.com/Abhi1code/navio_flask))
+---
+### Flask(python) backend ([Github link](https://github.com/Abhi1code/navio_flask))
 
 1) Download the above repo.
 2) Make sure python is installed inside your system.
@@ -49,8 +51,8 @@ php server.php
 ```
 python app.py
 ```
-
-- Android app ([Github link](https://github.com/Abhi1code/navio_android))
+---
+### Android app ([Github link](https://github.com/Abhi1code/navio_android))
 
 1) Open the above repo in `android studio`.
 2) Make sure above flask app is running in your system.
@@ -67,3 +69,6 @@ python app.py
 13) Click the `+` button, there you can see a list of items present inside the complex.
 14) Select multiple items and press Okay.
 15) Now you can see direction and path to navigate.
+
+
+
